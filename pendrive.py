@@ -1,6 +1,3 @@
-from _typeshed import Self
-
-
 class penDrive:
     def __init__(self, nome):
         self.__nome=nome
